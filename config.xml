@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.laphonegap.helloworld"
+        id        = "com.redjamz.helloworld"
         versionCode="10" 
         version   = "1.0.0">
 		
@@ -11,7 +11,7 @@
     <!-- versionCode is optional and Android only -->
     
     <!-- define which version of phonegap to use, not required -->
-    <preference name="phonegap-version" value="1.9.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
 	
 	<!-- this app will have no device api access -->
 	<preference name="permissions" value="none"/>
@@ -41,7 +41,7 @@
         Simple example for phonegap usage. 
     </description>
 
-    <author href="https://laphonegap.org" email="george@laphonegap.org">
+    <author href="https://redjamz.com" email="george@redjamz.com">
         George McKinney 
     </author>
 
